@@ -1,0 +1,89 @@
+.valenciacomputers {
+  position: relative;
+  left: 1480px;
+}
+
+.enlaces {
+    text-align: center;
+    background-color: lightskyblue;
+
+}
+
+.texto1 {
+    position: relative;
+    left: 500px;
+    bottom: 280px;
+    color: blue;
+}
+
+.fondogeneral {
+    background-color: lightgoldenrodyellow;
+}
+
+.fondoblanco {
+    background-color: white;
+}
+
+.texto2 {
+    position: relative;
+    left: 500px;
+    bottom: 280px;
+    color: blue;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.empresa2 {
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 2690px;
+}
+
+.fondoazul {
+    background-color: lightblue;
+}
+
+.texto3 {
+    position: relative;
+    bottom: 270px;
+    left: 1060px;
+}
+
+.final {
+    text-align: center;
+}
+
+.bandasazules {
+    background-color: blue;
+    position: relative;
+    top: 40px;
+}
+
+
+.bandasazules2 {
+    background-color: blue;
+    position: relative;
+    bottom: 250px;
+}
+
+.bandasrojas {
+    background-color: red;
+    position: relative;
+    top: 80px;
+}
+
+
+.bandasrojas2 {
+    background-color: red;
+    position: relative;
+    top: 300px;
+    
+}
+
+.empresa1 {
+    width: 500px;
+    height: 300px;
+}
